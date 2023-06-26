@@ -88,7 +88,7 @@ $ \Rightarrow{} \text{ tanh}(1.2x) =0.9 $ <br>
 
 $ \Rightarrow{} x={(\frac{\ 70\ -\ 55}{\sigma\ \sqrt{2}})}=1.227 $ <br>
 
-$ \Rightarrow{} \boxed{ SD = \sigma =8.64}$
+$ \Rightarrow{} \boxed{ SD = \sigma =9.14}$
 
 </div>
 
