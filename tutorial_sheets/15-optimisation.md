@@ -205,7 +205,7 @@ a = \frac{9978 - 1124b}{1.2E6} \therefore 1.2E6a + 1124b = 9978
 $$
 
 $$
-b = \frac{1}{3} \times 15 - \frac{a}{3} \times 1124 \therefore 62a + 3b = 1
+b = \frac{1}{3} \times 15 - \frac{a}{3} \times 1124 \therefore 1124a + 3b = 5
 $$
 
 $$
